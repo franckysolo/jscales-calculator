@@ -1,0 +1,23 @@
+{
+  "name": "jscales-calculator",
+  "version": "0.1.0",
+  "description": "Calculate musics scales the JavaScript version",
+  "main": "./jscales-calculator.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franckysolo/jscales-calculator.git"
+  },
+  "keywords": [
+    "Mucics",
+    "scales"
+  ],
+  "author": "franckysolo <franckysolo@gmail.com> (http://www.franckysolo-productions.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franckysolo/jscales-calculator/issues"
+  },
+  "homepage": "https://github.com/franckysolo/jscales-calculator#readme"
+}
